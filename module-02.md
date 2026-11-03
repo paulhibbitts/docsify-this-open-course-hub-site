@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/03.module-02/course-page.md","images":["4853380320_492f9dce63_b.jpg","ux-design-process-v4.png"]}
+<!-- grav: {"file":"03.modules/03.module-02/course-page.md","images":["4853380320_492f9dce63_b.jpg","ux-design-process-v4.png"],"before":""}
 title: 'Module 2'
 description: 'What does a holistic user experience design process look like?'
 header_image: true

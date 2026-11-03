@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/06.module-05/course-page.md","images":["4642289926_7964e733d1_b.jpg"]}
+<!-- grav: {"file":"03.modules/06.module-05/course-page.md","images":["4642289926_7964e733d1_b.jpg"],"before":""}
 title: 'Module 5'
 description: 'How to plan, conduct, and summarize usability tests?'
 header_image: true

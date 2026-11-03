@@ -1,3 +1,9 @@
+<!-- grav: {"file":"03.modules/module.md","after":""}
+title: Modules
+published: true
+description: 'Below are the modules available for this course.'
+-->
+
 - [Welcome](welcome.md)
 - [Module 1](module-01.md)
 - [Module 2](module-02.md)

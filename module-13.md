@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/14.module-13/course-page.md","images":["35899263465_e2f708c950_k.jpg"]}
+<!-- grav: {"file":"03.modules/14.module-13/course-page.md","images":["35899263465_e2f708c950_k.jpg"],"before":""}
 title: 'Module 13'
 description: 'What can we learn from UX practitioners?'
 header_image: true

@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/10.module-09/course-page.md","images":["9203760174_499895dece_k.jpg"]}
+<!-- grav: {"file":"03.modules/10.module-09/course-page.md","images":["9203760174_499895dece_k.jpg"],"before":""}
 title: 'Module 9'
 description: 'How to review and refine your user research findings?'
 header_image: true

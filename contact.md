@@ -22,3 +22,5 @@ Fridays 12:00-1:00pm
 
 Suggestion, concern or complaint?  
 [Anonymous Course Feedback](#)
+
+<!-- grav:sidebar-group {"layout":"## {heading}\n{link}  \n{link}  \n{link}  \n{link}  \n{link}"} -->

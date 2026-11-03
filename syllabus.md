@@ -1,4 +1,4 @@
-<!-- grav: {"file":"10.syllabus/page.md"}
+<!-- grav: {"file":"10.syllabus/page.md","after":"   \n"}
 title: Syllabus
 published: true
 show_sidebar: false

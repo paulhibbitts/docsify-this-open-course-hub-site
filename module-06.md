@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/07.module-06/course-page.md","images":["2760207306_21ac555261_b.jpg"]}
+<!-- grav: {"file":"03.modules/07.module-06/course-page.md","images":["2760207306_21ac555261_b.jpg"],"before":""}
 title: 'Module 6'
 description: 'How to conduct a usability inspection?'
 header_image: true

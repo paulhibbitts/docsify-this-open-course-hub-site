@@ -1,4 +1,4 @@
-<!-- grav: {"file":"07.resources/page.md"}
+<!-- grav: {"file":"07.resources/page.md","before":""}
 title: 'Resources'
 published: true
 -->

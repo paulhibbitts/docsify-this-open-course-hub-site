@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/09.module-08/course-page.md","images":["13966760787_2d0975e6bc_k.jpg"]}
+<!-- grav: {"file":"03.modules/09.module-08/course-page.md","images":["13966760787_2d0975e6bc_k.jpg"],"before":""}
 title: 'Module 8'
 description: 'How to understand and communicate people''s needs and behaviours?'
 header_image: true

@@ -15,4 +15,4 @@ The original course is built with Grav Open Course Hub at https://demo.hibbittsd
 
 Only the modules and the course pages are converted – the course blog isn't part of the modules, so it stays on the Grav site.
 
-Each page also keeps its Grav settings in a hidden note at the top, so nothing from the original Grav pages is lost.
+Each page also keeps its Grav settings in a hidden note at the top, so the converter can turn these pages back into Grav pages unchanged.

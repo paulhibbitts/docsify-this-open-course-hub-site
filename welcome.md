@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/01.welcome/course-page.md","images":["belinda-fewings-6wAGwpsXHE0-unsplash.jpg"]}
+<!-- grav: {"file":"03.modules/01.welcome/course-page.md","images":["belinda-fewings-6wAGwpsXHE0-unsplash.jpg"],"links":[["syllabus.md","../../syllabus"],["home.md","../../modules"],["schedule.md","../../schedule"],["topics.md","../../topics"]]}
 title: Welcome
 description: 'Welcome to CPT-363 User Interface Design 👋🏼'
 badge_label: 'Start here'

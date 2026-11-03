@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/11.module-10/course-page.md","images":["6192507935_3c435c6d94_b.jpg"]}
+<!-- grav: {"file":"03.modules/11.module-10/course-page.md","images":["6192507935_3c435c6d94_b.jpg"],"before":""}
 title: 'Module 10'
 description: 'How to design products for how people think, learn and feel?'
 header_image: true

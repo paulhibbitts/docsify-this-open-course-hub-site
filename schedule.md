@@ -1,4 +1,4 @@
-<!-- grav: {"file":"05.schedule/page.md"}
+<!-- grav: {"file":"05.schedule/page.md","links":[["module-01.md","../modules/module-01"],["module-02.md","../modules/module-02"],["module-03.md","../modules/module-03"],["module-04.md","../modules/module-04"],["module-05.md","../modules/module-05"]]}
 title: Schedule
 published: true
 -->

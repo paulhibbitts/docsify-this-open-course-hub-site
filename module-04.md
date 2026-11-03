@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/05.module-04/course-page.md","images":["6968244538_4c0f7c7e64_k.jpg"]}
+<!-- grav: {"file":"03.modules/05.module-04/course-page.md","images":["6968244538_4c0f7c7e64_k.jpg"],"before":""}
 title: 'Module 4'
 description: 'How to explore and communicate possible design solutions?'
 header_image: true

@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/08.module-07/course-page.md","images":["16230041026_d438eb2482_k.jpg"]}
+<!-- grav: {"file":"03.modules/08.module-07/course-page.md","images":["16230041026_d438eb2482_k.jpg"],"before":""}
 title: 'Module 7'
 description: 'How to design for mobile and multi-device usage?'
 header_image: true

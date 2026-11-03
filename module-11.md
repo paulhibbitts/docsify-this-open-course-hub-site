@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/12.module-11/course-page.md","images":["4762082009_e0754cd5c3_b.jpg"]}
+<!-- grav: {"file":"03.modules/12.module-11/course-page.md","images":["4762082009_e0754cd5c3_b.jpg"],"before":""}
 title: 'Module 11'
 description: 'What are the essentials of effective visual communication?'
 header_image: true

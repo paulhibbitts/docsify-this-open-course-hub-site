@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/02.module-01/course-page.md","images":["10610701655_c57e2dc536_o.jpg"]}
+<!-- grav: {"file":"03.modules/02.module-01/course-page.md","images":["10610701655_c57e2dc536_o.jpg"],"before":""}
 title: 'Module 1'
 description: 'What is usability and user experience design?'
 header_image: true

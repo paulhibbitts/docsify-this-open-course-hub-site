@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/13.module-12/course-page.md","images":["3343696373_40d3c17909_o.jpg"]}
+<!-- grav: {"file":"03.modules/13.module-12/course-page.md","images":["3343696373_40d3c17909_o.jpg"],"before":""}
 title: 'Module 12'
 description: 'How to get useful feedback on your design work?'
 header_image: true

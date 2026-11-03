@@ -1,4 +1,4 @@
-<!-- grav: {"file":"03.modules/04.module-03/course-page.md","images":["6384294717_5047a35d48_b.jpg"]}
+<!-- grav: {"file":"03.modules/04.module-03/course-page.md","images":["6384294717_5047a35d48_b.jpg"],"before":""}
 title: 'Module 3'
 description: 'How to make more strategic design decisions?'
 header_image: true
