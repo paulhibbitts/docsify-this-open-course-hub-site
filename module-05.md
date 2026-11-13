@@ -29,10 +29,10 @@ header_image_alt_text: 'Usability testing'
 
 
 ## Supplemental Materials  
-[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=QckIzHC99Xc)  
+[Usability Testing, by AmberlightUX](https://www.youtube.com/watch?v=BrVnBdW6_rE)  
 
-<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=QckIzHC99Xc[/youtube] -->
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/QckIzHC99Xc" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=BrVnBdW6_rE[/youtube] -->
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/BrVnBdW6_rE" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
   
 
 ## Required Reading  

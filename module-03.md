@@ -29,10 +29,10 @@ header_image_alt_text: 'Bullseye'
 
 
 ## Supplemental Materials  
-[Customer Journey Mapping](https://www.youtube.com/watch?v=a40QYgO-_aM)  
+[Customer Journey Mapping 101](https://www.youtube.com/watch?v=2W13ext26kQ)  
 
-<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=a40QYgO-_aM[/youtube] -->
-<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/a40QYgO-_aM" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
+<!-- grav-embed: [youtube]https://www.youtube.com/watch?v=2W13ext26kQ[/youtube] -->
+<div class="video-container-16by9"><iframe src="https://www.youtube-nocookie.com/embed/2W13ext26kQ" title="Video" frameborder="0" allowfullscreen="true"></iframe></div>
   
 
 ## Assignments
